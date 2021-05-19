@@ -29,3 +29,6 @@ You can find the following files:
 |ifoodCase.ipynb| Code containing the exploratory analysis, customers segmentation and predictive model aiming to increase the next Marketing Campaign succes rate |
 |ifood_CRM_Data_Analyst_Case.pptx| Powerpoint presentation to be presented to business stakeholders |
 |ifood_CRM_Data_Analyst_Case.pdf| Pdf version of presentation|
+
+If you have issues to visualise the notebook file, please check the following link:
+https://nbviewer.jupyter.org/github/npradaschnor/ifood_Case/blob/master/ifoodCase.ipynb
