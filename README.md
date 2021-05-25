@@ -2,6 +2,8 @@
 <br>
 <br>
 
+### Note: Work in Progress
+
 This case is used for hiring Data Analysts for the iFood Brain team.
 
 In this case, you are presented a sample dataset, that mocks metainformation on the customer and on iFood campaign interactions with that customer.
