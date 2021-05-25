@@ -1,9 +1,8 @@
 <img src="https://i.ibb.co/8jcjF4W/ifoodvermelhocurto.png" alt="ifoodvermelhocurto" border="0">
 <br>
 <br>
-#### Note: Work in Progress
-<br>
-<br>
+
+### Note: Work in Progress
 
 This case is used for hiring Data Analysts for the iFood Brain team.
 
